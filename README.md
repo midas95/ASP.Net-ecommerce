@@ -1,7 +1,3 @@
-
-[View project screenshots](https://drive.google.com/drive/folders/0B8iilHO4-_3sZWNEd3RGUzUwMXc?resourcekey=0-03lqcI6SRpq2EkTp21-KvA&usp=sharing)
-
-
 This is an eCommerce project I made in C# using ASP.NET and SQL server 2008. I created this project as part of my masters degree.
 The project was created rather hastily in around 4-5 days of timespan; so, it might be rough around the edges. Do let me know regarding any updates I should make.
 Works best in Google Chrome.
